@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class Main {
-    public static void main (String[]args) {
+     static void main (String[]args) {
         Robo r1 = new Robo();
         Scanner sc = new Scanner(System.in);
         int var = -1;
@@ -31,7 +31,7 @@ public class Main {
                     System.out.println("Opçao invalida");
             }
         }
-        System.out.println(r1.nome + " desligando...");2
+        System.out.println(r1.nome + " desligando...");
 
 
         sc.close();
