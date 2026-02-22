@@ -31,7 +31,7 @@ public class Main {
                     System.out.println("Opçao invalida");
             }
         }
-        System.out.println(r1.nome + " desligando...");2
+        System.out.println(r1.nome + " desligando...");
 
 
         sc.close();
